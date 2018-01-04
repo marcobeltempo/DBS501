@@ -1,0 +1,13 @@
+/*Marco Beltempo
+12/13/2017
+DBS501AA*/
+
+SET SERVEROUTPUT ON
+SET VERIFY OFF
+DECLARE BEGIN
+    MINE('11/09','P');
+    MINE('12/09','F');
+    MINE('01/10','T');
+    MINE('13/09','P');
+END;
+/
