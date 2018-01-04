@@ -1,3 +1,5 @@
+--Author: marcobeltempo - https://github.com/marcobeltempo
+
 CREATE OR REPLACE 
 PACKAGE MY_PACK AS 
 PROCEDURE modify_sal(p_departmentID NUMBER);

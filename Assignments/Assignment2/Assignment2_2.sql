@@ -1,3 +1,5 @@
+--Author: marcobeltempo - https://github.com/marcobeltempo
+
 CREATE OR REPLACE FUNCTION TOTAL_COST ( 
 p_student_id IN VARCHAR2) 
 RETURN NUMBER IS v_total_cost NUMBER;

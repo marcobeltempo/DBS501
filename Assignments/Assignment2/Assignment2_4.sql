@@ -1,3 +1,5 @@
+--Author: Guan Huei Kuo - ghkuo@myseneca.ca
+
 create or replace PACKAGE my_pack IS
 
 FUNCTION TOTAL_COST(P_FIRST_NAME VARCHAR2, P_LAST_NAME VARCHAR2)

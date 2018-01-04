@@ -1,3 +1,5 @@
+--Author: mpierre9 - https://github.com/MPierre9
+
 CREATE OR REPLACE PROCEDURE modify_sal(p_departmentID NUMBER) IS
 v_salaryAvg NUMBER(20);
 v_updateCount NUMBER(20) :=0;

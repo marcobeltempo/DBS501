@@ -1,3 +1,5 @@
+--Author: Guan Huei Kuo - ghkuo@myseneca.ca
+
 create or replace PROCEDURE MOD_GRADE(P_COURSE_NO NUMBER,P_GRADE NUMBER)
 IS
 V_COURSE_EXSIT NUMBER;

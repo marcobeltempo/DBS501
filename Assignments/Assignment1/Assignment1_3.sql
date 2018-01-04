@@ -1,3 +1,5 @@
+--Author: Guan Huei Kuo - ghkuo@myseneca.ca
+
 SET  SERVEROUTPUT  ON
 SET  VERIFY OFF
 ACCEPT P_REGID  PROMPT  'Enter value for region:  '
